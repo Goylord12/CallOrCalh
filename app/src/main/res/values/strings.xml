@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calh of Pahom</string>
+    <string name="firstTerm">Число:</string>
+    <string name="secondTerm">Число:</string>
+    <string name="firstTermInput">Кабанчиком ввёл число</string>
+    <string name="secondTermInput">Кабанчиком ввёл число</string>
+    <string name="add">Сложить</string>
+</resources>
